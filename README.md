@@ -5,10 +5,7 @@ I've been programming since 2019. I started with **python** development, then pa
 * SQL - I [learned](https://coursera.org/share/50ee1bcd836b31d2be594056d074ebe8) basic ways to create *sql-queries*, *join tables*, and *construct databases*
 * Mobile development - After studying a [course](https://coursera.org/share/0f3b5e88ced804ba5889522a03493cac) on development in **Kotlin**, I began to better understand *OOP*, *functional programming*, and even wrote my *[own](https://github.com/zkerriga/tritri) application*
 
-
-I'm currently [studying](https://stepik.org/cert/911798) **Scala** to work in the financial technology field that interests me!
-
-Look at my [resume](https://kazan.hh.ru/resume/1c7da29bff0830c7890039ed1f30315573486e)! :cake:
+I'm currently working on **Scala**. I develop APIs, write functional libraries, and support monitoring systems :cake:
 
 <br>
 
