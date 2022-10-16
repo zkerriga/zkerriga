@@ -5,7 +5,13 @@ I've been programming since 2019. I started with **python** development, then pa
 * SQL - I [learned](https://coursera.org/share/50ee1bcd836b31d2be594056d074ebe8) basic ways to create *sql-queries*, *join tables*, and *construct databases*
 * Mobile development - After studying a [course](https://coursera.org/share/0f3b5e88ced804ba5889522a03493cac) on development in **Kotlin**, I began to better understand *OOP*, *functional programming*, and even wrote my *[own](https://github.com/zkerriga/tritri) application*
 
-I'm currently working on **Scala**. I develop APIs, write functional libraries, and support monitoring systems :cake:
+At the beginning of 2021, I decided to focus on **Scala**:
+
+- I took a basic language [course](https://stepik.org/cert/911798)
+- Then I figured out the functional principles on the [course from EPFL](https://coursera.org/share/5961443304510a397c2eddcd2c9e6f93)
+- And in parallel, I completed [special training](https://disk.yandex.ru/i/Gt1aBnjwZoNzKg) at the Tinkoff company
+
+Now I’m developing event-driven systems, writing business logic, and constantly increasing my knowledge in the backend context 🚀
 
 <br>
 
